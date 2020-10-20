@@ -2,7 +2,10 @@
 In diesem Repository befinden sich Unterlagen für Strafrecht I.
 
 ## Flashcards / Spaced Repetition
-Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/courses/3051 verfügbar:
+Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/ verfügbar:
+- 1. Klausur:
+  - Wichtigste Inhalte: https://www.memcode.com/courses/3051
+  - Vertiefende Inhalte (wegen OpenBook Klausur nicht wirklich notwendig): https://www.memcode.com/courses/3218
 
 ### Status
 Der derzeitige Status ist im [ZenHub Kanban Board](https://app.zenhub.com/workspaces/open-law-austria-5f341d4316010a00180099ff) zu finden.
